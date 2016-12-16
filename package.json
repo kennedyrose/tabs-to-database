@@ -1,0 +1,11 @@
+{
+	"name": "Tabs to Database",
+	"description": "Tabs to Database",
+	"version": "1.0.0",
+	"keywords": [],
+	"main": "app://host/index.html",
+	"window": {
+		"title": "Tabs to Database",
+		"toolbar": true
+	}
+}
